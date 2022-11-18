@@ -1,4 +1,5 @@
-function clicMenuGauche(lien) {
-  lien.style.color = '#f00';
-  lien.innerText += ' cliqué!';
+function clicMenuGauche(lien){
+    lien.style.color = "#F00";
+    lien.innerText += " cliqué!"
 }
+
